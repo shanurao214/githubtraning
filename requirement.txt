@@ -5,3 +5,6 @@ white screen
 email 
 Dark mode
 gravity
+payment option 
+sent money 
+recive money
