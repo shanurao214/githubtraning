@@ -3,3 +3,5 @@ requirement
 black screen 
 white screen 
 email 
+Dark mode
+gravity
